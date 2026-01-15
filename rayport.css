@@ -33,51 +33,43 @@ body{
 
 
 .hero-left {
-  width: auto;
+  width: 200px;
   background: blue;
   color: red;
   text-align: center;
-  padding:auto;
+  padding: 25px 15px;
   
 }
 
 .hero-left img {
-  width: auto;
+  width: 200px;
   
-  border-radius: auto;
-  border: auto;}
-
-.role {
-  margin-top: auto;
-  font-weight: bold;
-    font-size: auto;
-  background: yellow;
-  padding: auto;
-  border-radius: auto;
+  border-radius: 6px;
+  border: 2px solid #fff;
 }
 
 
 .info {
-  margin-top: auto;
-  font-size: auto;
+  margin-top: 15px;
+  font-size: 15px;
     background: yellow;
 }
 
 
 .hero-right {
   flex: 1;
-  padding: auto;
+  padding: 40px;
 }
 
 .hero-right h1 {
   color:yellow;
-  margin-bottom: auto;
+  margin-bottom: 10px;
 }
 
 .hero-right p {
   line-height: 2;
   color: black;
-  font-size: auto;
+  font-size: 25px;
 }
 
  nav ul {
@@ -90,7 +82,6 @@ body{
 }
 
 .nav a {
-  text-decoration: none;
   font-weight: 600;
  padding:0;
   
@@ -125,30 +116,30 @@ body{
   border: 1px solid red; 
 }
 .d1 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:450px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .d2 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:450px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .d3 img {
-  padding: auto;
-  height:auto;
-  width: auto; 
+  padding: 20px;
+  height:470px;
+  width: 350px; 
   transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .d4 img {
-  padding: auto;
-  height:auto;
-  width:auto;
+  padding: 20px;
+  height:470px;
+  width:350px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
@@ -182,17 +173,17 @@ body{
 
   border: 1px solid red; }
 .e1 img {
-  padding-left:auto;
-  height:auto;
-  width:auto;
+  padding-left:120px;
+  height:360px;
+  width:400px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 
 }
 .e2 img {
-  padding-left:auto;
-  height:auto;
-  width:auto;
+  padding-left:120px;
+  height:360px;
+  width:400px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
@@ -218,30 +209,30 @@ body{
   border: 1px solid red;} 
  
 .f1 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .f2 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .f3 img {
-  padding: auto;
-  height:auto;
-  width: auto; 
+  padding: 20px;
+  height:350px;
+  width: 325px; 
   transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .f4 img {
-  padding: auto;
-  height: auto;
-  width: auto;
+  padding: 20px;
+  height: 350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
@@ -268,7 +259,7 @@ body{
  .g {
   display: flex;
   width: auto
-  height: auto;   }
+  height: 400px;   }
 
 .g1, .g2, .g3,.g4 {
   flex: 1;         
@@ -276,30 +267,30 @@ body{
   border: 1px solid red;} 
 
 .g1 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .g2 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .g3 img {
-  padding: auto;
-  height:auto;
-  width: auto; 
+  padding: 20px;
+  height:350px;
+  width: 325px; 
   transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .g4 img {
-  padding-left: auto;
-  height: auto;
-  width: auto;
+  padding-left: 20px;
+  height: 350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
@@ -326,7 +317,7 @@ body{
 .h {
   display: flex;
   width: auto
-  height: auto;   }
+  height: 400px;   }
 
 .h1, .h2, .h3,.h4 {
   flex: 1;         
@@ -334,30 +325,30 @@ body{
   border: 1px solid red;} 
 
 .h1 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .h2 img {
-  padding: auto;
-  height:auto;
-  width: auto;
+  padding: 20px;
+  height:350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
   cursor: pointer;
 }
 .h3 img {
-  padding: auto;
-  height:auto;
-  width: auto; 
+  padding: 20px;
+  height:350px;
+  width: 325px; 
   transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
 .h4 img {
-  padding: auto;
-  height: auto;
-  width: auto;
+  padding: 20px;
+  height: 350px;
+  width: 325px;
    transition: transform 0.3s ease, opacity 0.3s ease;
     cursor: pointer;
 }
