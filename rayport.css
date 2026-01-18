@@ -51,7 +51,7 @@ body{
 
 .info {
   margin-top: 15px;
-  font-size: 22px;
+  font-size: 15px;
     background: yellow;
 }
 
@@ -69,7 +69,7 @@ body{
 .hero-right p {
   line-height: 2;
   color: black;
-  font-size: 30px;
+  font-size: 25px;
 }
 
  nav ul {
@@ -78,7 +78,7 @@ body{
   padding: 0;
   display: flex; 
   gap: 90px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .nav a {
@@ -87,7 +87,7 @@ body{
   
 }
 .a ul,p{
-  font-size: 25px;
+  font-size: 20px;
   color: black;
 }
 .a h1{
@@ -97,11 +97,7 @@ body{
   color: black;
 }
 .b ul,address{
-  font-size: 30px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: darkblue;
-.b ul,p{
-  font-size: 30px;
+  font-size: 19px;
   font-family: Arial, Helvetica, sans-serif;
   color: darkblue;
 }
@@ -171,10 +167,6 @@ body{
   display: flex;
   width: auto;
    height: auto;      }
-.e,p{
-  font-size: 30px;
-  font-family: Arial, Helvetica, sans-serif;
-  color: darkblue;
 
 .e1, .e2 {
   flex: 1;         
