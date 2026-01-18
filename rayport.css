@@ -1,9 +1,9 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    margin: 0px;
-    padding: 0px;
+    margin: 0 px;
+    padding: 0 px;
     color: blue;
-    width: 100%;
+    width: 100 %;
     animation: colorchange 10s infinite alternate forwards;}
     @keyframes colorchange {
   0% {
@@ -87,7 +87,7 @@ body{
   
 }
 .a ul,p{
-  font-size: 20px;
+  font-size: 20 px;
   color: black;
 }
 .a h1{
@@ -97,7 +97,7 @@ body{
   color: black;
 }
 .b ul,address{
-  font-size: 19px;
+  font-size: 19 px;
   font-family: Arial, Helvetica, sans-serif;
   color: darkblue;
 }
@@ -106,8 +106,8 @@ body{
 }
 
 .d {
-  display: flex;
-  width: auto
+  display: flex; 
+  width: auto;
   height: 400px;   }
 
 .d1, .d2, .d3,.d4 {
@@ -165,7 +165,7 @@ body{
 }
 .e {
   display: flex;
-  width: auto
+  width: auto;
   height: 600px;   }
 
 .e1, .e2 {
@@ -200,7 +200,7 @@ body{
 }
 .f {
   display: flex;
-  width: auto
+  width: auto;
   height: 400px;   }
 
 .f1, .f2, .f3,.f4 {
@@ -258,7 +258,7 @@ body{
 }
  .g {
   display: flex;
-  width: auto
+  width: auto;
   height: 400px;   }
 
 .g1, .g2, .g3,.g4 {
@@ -316,7 +316,7 @@ body{
 }
 .h {
   display: flex;
-  width: auto
+  width: auto;
   height: 400px;   }
 
 .h1, .h2, .h3,.h4 {
