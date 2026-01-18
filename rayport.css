@@ -108,7 +108,7 @@ body{
 .d {
   display: flex; 
   width: auto;
-  height: 400px;   }
+  height: auto;   }
 
 .d1, .d2, .d3,.d4 {
   flex: 1;         
@@ -166,7 +166,7 @@ body{
 .e {
   display: flex;
   width: auto;
-  height: 600px;   }
+  height: auto;   }
 
 .e1, .e2 {
   flex: 1;         
@@ -201,7 +201,7 @@ body{
 .f {
   display: flex;
   width: auto;
-  height: 400px;   }
+  height: auto;   }
 
 .f1, .f2, .f3,.f4 {
   flex: 1;         
@@ -259,7 +259,7 @@ body{
  .g {
   display: flex;
   width: auto;
-  height: 400px;   }
+  height: auto;   }
 
 .g1, .g2, .g3,.g4 {
   flex: 1;         
@@ -317,7 +317,7 @@ body{
 .h {
   display: flex;
   width: auto;
-  height: 400px;   }
+  height: auto;   }
 
 .h1, .h2, .h3,.h4 {
   flex: 1;         
