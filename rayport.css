@@ -69,7 +69,7 @@ body{
 .hero-right p {
   line-height: 2;
   color: black;
-  font-size: 25px;
+  font-size: 30px;
 }
 
  nav ul {
@@ -78,7 +78,7 @@ body{
   padding: 0;
   display: flex; 
   gap: 90px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .nav a {
@@ -97,7 +97,7 @@ body{
   color: black;
 }
 .b ul,address{
-  font-size: 19px;
+  font-size: 25px;
   font-family: Arial, Helvetica, sans-serif;
   color: darkblue;
 }
