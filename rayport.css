@@ -1,9 +1,9 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    margin: 0 px;
-    padding: 0 px;
+    margin: 0px;
+    padding: 0px;
     color: blue;
-    width: 100 %;
+    width: 100%;
     animation: colorchange 10s infinite alternate forwards;}
     @keyframes colorchange {
   0% {
@@ -45,7 +45,7 @@ body{
   width: 200px;
   
   border-radius: 6px;
-  border: 2px solid #fff;
+  border: 2px solid white;
 }
 
 
@@ -87,7 +87,7 @@ body{
   
 }
 .a ul,p{
-  font-size: 20 px;
+  font-size: 20px;
   color: black;
 }
 .a h1{
@@ -97,7 +97,7 @@ body{
   color: black;
 }
 .b ul,address{
-  font-size: 19 px;
+  font-size: 19px;
   font-family: Arial, Helvetica, sans-serif;
   color: darkblue;
 }
@@ -106,7 +106,7 @@ body{
 }
 
 .d {
-  display: flex; 
+  display: flex;
   width: auto;
   height: auto;   }
 
@@ -166,7 +166,7 @@ body{
 .e {
   display: flex;
   width: auto;
-  height: auto;   }
+   height: auto;      }
 
 .e1, .e2 {
   flex: 1;         
@@ -202,7 +202,6 @@ body{
   display: flex;
   width: auto;
   height: auto;   }
-
 .f1, .f2, .f3,.f4 {
   flex: 1;         
 
@@ -260,7 +259,6 @@ body{
   display: flex;
   width: auto;
   height: auto;   }
-
 .g1, .g2, .g3,.g4 {
   flex: 1;         
 
@@ -318,7 +316,6 @@ body{
   display: flex;
   width: auto;
   height: auto;   }
-
 .h1, .h2, .h3,.h4 {
   flex: 1;         
 
